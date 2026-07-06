@@ -3,35 +3,45 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // languages
+  { name: "C/C++", level: 95, category: "languages" },
+  { name: "Python", level: 93, category: "languages" },
+  { name: "System Verilog", level: 90, category: "languages"},
+  { name: "Matlab", level: 90, category: "languages" },
+  { name: "Risc-V assembly", level: 90, category: "languages" },
+  { name: "x86 assembly", level: 90, category: "languages" },
   { name: "HTML/CSS", level: 88, category: "languages" },
   { name: "JavaScript", level: 90, category: "languages" },
   { name: "React", level: 90, category: "languages" },
-  { name: "C", level: 95, category: "languages" },
-  { name: "Assembly", level: 90, category: "languages" },
-  { name: "Python", level: 93, category: "languages" },
-  { name: "Matlab", level: 90, category: "languages" },
-  { name: "System Verilog", level: 90, category: "languages"},
-  { name: "C++", level: 90, category: "languages" },
+
+  
+
+  
 
 
 
  //Frameworks:
   { name: "Git/GitHub", level: 80, category: "frameworks" },
-  { name: "FPGA", level: 75, category: "frameworks" },
-  { name: "Asic", level: 70, category: "frameworks" },
-  { name: "VS code", level: 65, category: "frameworks" },
-  { name: "Arduino IDE", level: 60, category: "frameworks" },
-  { name: "STM32", level: 60, category: "frameworks" },
-  { name: "SolidWorks", level: 60, category: "frameworks" },
+  { name: "UVM", level: 75, category: "frameworks" },
+  { name: "Xilinx Vivado", level: 70, category: "frameworks" },
   { name: "Cadence Virtuoso", level: 60, category: "frameworks" },
   { name: "Altruim", level: 60, category: "frameworks" },
+  { name: "Fusion 360", level: 60, category: "frameworks" },
+  { name: "KiCAD", level: 60, category: "frameworks" },
+  { name: "Bare-Metal programming", level: 65, category: "frameworks" },
+  { name: "USB/I2C/SPI/UART", level: 60, category: "frameworks" },
+  { name: "STM32", level: 60, category: "frameworks" },
+  { name: "SolidWorks", level: 60, category: "frameworks" },
+
 
 
   // Development Areas
   { name: "Object-Oriented Programming", level: 90, category: "Development Areas" },
   { name: "Embedded Systems", level: 70, category: "Development Areas" },
-  { name: "Web Development", level: 85, category: "Development Areas" },
-  { name: "Test-Driven Development", level: 95, category: "Development Areas" },
+  { name: "RTL Design & Computer Architecture", level: 85, category: "Development Areas" },
+  { name: "Design Verification", level: 95, category: "Development Areas" },
+  { name: "PCB Design", level: 95, category: "Development Areas" },
+  { name: "Woodworking", level: 95, category: "Development Areas" },
+
 ];
 
 const categories = ["all", "languages", "frameworks", "Development Areas"];

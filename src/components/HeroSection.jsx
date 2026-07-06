@@ -33,7 +33,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I am a Computer Engineering senior in Purdue University!
+            I am a Computer Engineering Graduate in Purdue University!
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

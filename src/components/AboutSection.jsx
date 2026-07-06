@@ -39,7 +39,7 @@ export const AboutSection = () => {
               </a>
 
                 <a
-                href="/EsharaqaJahid_micro_resume.pdf"
+                href="EsharaqaJahid_IBM_Resume2026.pdf"
                 download="EsharaqaJahid_Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
                 aria-label="Download my resume as PDF"
@@ -56,9 +56,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Research Intern- MLM</h4>
+                  <h4 className="font-semibold text-lg">Fusion Semiconductor- Remote Intern</h4>
                   <p className="text-muted-foreground">
-                    Developed a real-time 3D human detection and motion-tracking system using machine learning and front-end web technologies.
+                    Developed proficiency in Cadence Virtuoso, designing basic logic gates at the transistor level and progressing from schematic capture to physical layout. I gained hands-on experience in simulation workflows, tap cell integration, and performing DRC and LVS checks to ensure design compliance.
                   </p>
                 </div>
               </div>
@@ -69,9 +69,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Fusion Semiconductor- Remote Intern</h4>
+                  <h4 className="font-semibold text-lg">ECE362- Teaching Assistant</h4>
                   <p className="text-muted-foreground">
-                    Developed proficiency in Cadence Virtuoso, designing basic logic gates at the transistor level and progressing from schematic capture to physical layout. I gained hands-on experience in simulation workflows, tap cell integration, and performing DRC and LVS checks to ensure design compliance.
+                    Assist students in developing microcontroller-based embedded systems through hands-on labs in assembly and C programming, hardware interfacing, and processor simulation.
                   </p>
                 </div>
               </div>
@@ -83,9 +83,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">ECE362- Teaching Assistant</h4>
+                  <h4 className="font-semibold text-lg"> Research Intern- MLM</h4>
                   <p className="text-muted-foreground">
-                    Assist students in developing microcontroller-based embedded systems through hands-on labs in assembly and C programming, hardware interfacing, and processor simulation.
+                    Developed a real-time 3D human detection and motion-tracking system using machine learning and front-end web technologies.
                   </p>
                 </div>
               </div>
